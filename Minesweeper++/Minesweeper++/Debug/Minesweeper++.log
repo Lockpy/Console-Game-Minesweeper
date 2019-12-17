@@ -1,0 +1,4 @@
+﻿  Minesweeper++.cpp
+D:\My Projects\Minesweeper\Minesweeper++\Minesweeper++\Minesweeper++.cpp(37,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\My Projects\Minesweeper\Minesweeper++\Minesweeper++\Minesweeper++.cpp(38,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Minesweeper++.vcxproj -> D:\My Projects\Minesweeper\Minesweeper++\Debug\Minesweeper++.exe
