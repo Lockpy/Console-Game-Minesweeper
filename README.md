@@ -1,4 +1,4 @@
-# Console Game Minesweeper
+# Minesweeper
 
 Course project  on the "Fundamentals of C++ Programming"
 
